@@ -2,7 +2,7 @@
 
     $server   = 'localhost';
     $username = 'root';
-    $password = 'usbw';
+    $password = '';
     $database = 'perusahaan';
 
     try {
